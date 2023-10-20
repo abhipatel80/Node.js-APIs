@@ -1,0 +1,11 @@
+1. What are APIs?
+
+=> "API" stands for Application Programming Interface. It is a set of rules and protocols that allows one software application or system to interact with another. APIs define the methods and data formats that developers can use to communicate with a service or application, making it easier to integrate different software systems.
+
+=> APIs are essential for enabling the functionality of various apps, websites, and digital services. They allow developers to access specific features or data from other applications, services, or platforms.
+
+=> APIs have become a fundamental part of modern software development, facilitating the integration of different systems and services, promoting interoperability, and enabling the creation of more complex and feature-rich applications.
+
+=> APIs can be found in various contexts, including web APIs that enable communication between web services, operating system APIs that allow applications to interact with the underlying operating system, and software libraries that provide reusable functions and code for developers.
+
+=> There are various types of APIs, including RESTful APIs, SOAP APIs, GraphQL APIs, and more. Each type has its own conventions and design principles.

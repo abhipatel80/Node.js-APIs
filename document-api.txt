@@ -1,0 +1,39 @@
+1. Login and Register api with express js
+
+=> Register 
+   url = http://localhost:3000/user/register
+   method = POST 
+   body = name, email, password
+
+=> Login 
+   url = http://localhost:3000/user/login
+   method = POST 
+   body = email, password
+
+
+
+=> Note => Login first to access all api
+2. Note api with express js
+
+=> for create note
+   url = http://localhost:3000/note/add
+   method = POST
+   body = title and description
+
+=> for get all notes
+   url = http://localhost:3000/note/get
+   method = GET
+
+=> for get single note
+   url = http://localhost:3000/note/get/:id
+   method = GET
+
+=> for update note
+   url = http://localhost:3000/note/edit/:id
+   method = PUT
+   body = title and description
+
+=> for delete note
+   url = http://localhost:3000/note/delete/:id
+   method = DELETE
+
